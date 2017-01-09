@@ -1,9 +1,9 @@
 ## Mandatory fields
-Organization-ID={FIXME}
+Organization-ID=g40p2y
 Device-Type=vehicle
 Device-ID=vehicle-sample 
 Authentication-Method=token
-Authentication-Token={FIXME}
+Authentication-Token=-UpOsokX4H3V68qHm@
 
 ## Optional fields
 Clean-Session = true
